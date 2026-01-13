@@ -22,7 +22,7 @@ A comprehensive AI-powered solution that helps HR managers screen candidates mor
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-company/ai-video-interview-analyzer.git
+   git clone https://github.com/derrickgitonga/ai_video_interview_analyzer
    cd ai-video-interview-analyzer
    ```
 
@@ -190,3 +190,4 @@ analyzer = InterviewAnalyzer(
 - **Consistency**: Eliminates human bias with standardized evaluation
 - **Scalability**: Processes hundreds of interviews simultaneously
 - **Data-Driven Decisions**: Provides quantifiable metrics for better hiring
+
